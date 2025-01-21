@@ -9,7 +9,7 @@
 📫 How to reach me: [Your Email]
 ⚡ Fun fact: [Interesting Fact About You]
 🛠️ Technologies & Tools
-<img src="">
+<img src="kisspng-professional-python-high-level-programming-languag-5c115384027755.6218390315446393640101.jpg">
 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kirashi0052&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>

@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alex! <br/><a href="https://github.com/Kirashi0052">Programmer</a>, <a href="https://tryhackme.com/p/Kirashi">Cybersecurity hobbyist</a>
 <div align="center">
-  <img src="[Banner Image URL]" alt="Banner" width="100%">
+  <img src="DALL·E 2025-01-21 15.24.19 - Ein kreatives digitales Kunstwerk zeigt Ippo Makunouchi aus der Anime-Serie 'Hajime no Ippo'. Ippo trägt Boxverbände an seinen Händen und sitzt an ein.webp" alt="Banner" width="100%">
 </div>
 👨‍💻 About Me
 🔭 I'm currently working on [Current Project]

@@ -3,13 +3,16 @@
   <img src="assets/banner.jpg" alt="Banner" width="100%">
 </div>
 👨‍💻 About Me
-<br>
+<br><br>
+Im an german software engineer.
+<br><br>
 🔭 I'm currently working on Python Algorithms
-<br>
+<br><br>
 🌱 I'm currently learning Python, C#
-<br>
+<br><br>
 🛠️ Technologies & Tools
 <img src="assets/pyLogo.png" width="150px" height="150px">
+<br><br>
 📊 GitHub Stats & Achievements
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kirashi0052&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>

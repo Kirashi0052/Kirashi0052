@@ -3,8 +3,11 @@
   <img src="assets/banner.jpg" alt="Banner" width="100%">
 </div>
 👨‍💻 About Me
+<br>
 🔭 I'm currently working on Python Algorithms
+<br>
 🌱 I'm currently learning Python, C#
+<br>
 🛠️ Technologies & Tools
 <img src="assets/pyLogo.png">
 📊 GitHub Stats

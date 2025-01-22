@@ -9,7 +9,7 @@
 🌱 I'm currently learning Python, C#
 <br>
 🛠️ Technologies & Tools
-<img src="assets/pyLogo.png">
+<img src="assets/pyLogo.png" width="150px" height="150px">
 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kirashi0052&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>

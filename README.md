@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alex! <br/><a href="https://github.com/Kirashi0052">Programmer</a>, <a href="https://tryhackme.com/p/Kirashi">Cybersecurity hobbyist</a>
 <div align="center">
-  <img src="banner.jpg" alt="Banner" width="100%">
+  <img src="assets/banner.jpg" alt="Banner" width="100%">
 </div>
 👨‍💻 About Me
 🔭 I'm currently working on Python Algorithms

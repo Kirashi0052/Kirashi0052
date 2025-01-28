@@ -16,7 +16,7 @@
 <div align="center">
   <img src="assets/pyLogo.png" width="50" height="50" alt="Python" style="margin-right: 20px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" style="margin-right: 20px;">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Kirashi.png" alt="TryHackMe" width="150" height="50">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Kirashi.png" alt="TryHackMe" width="200" height="50">
 </div>
 
 ### 📊 GitHub Stats & Achievements

@@ -27,8 +27,8 @@
 
 ### 🌟 Featured Projects
 <div align="center">
-  <a href="https://github.com/Kirashi0052/Algorithms">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kirashi0052&repo=Algorithms&theme=radical"/>
+  <a href="https://github.com/Kirashi0052/DSA_Playground">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kirashi0052&repo=DSA_Playground&theme=radical"/>
   </a>
   <p>A collection of Python algorithms and data structures</p>
 </div>

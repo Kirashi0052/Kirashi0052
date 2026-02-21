@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Alex! 👋</h1>
 <h3 align="center">Programmer & Cybersecurity Enthusiast from Germany</h3>
 
-<div align="center">
-  <img src="assets/banner.jpg" alt="Banner" width="100%" style="max-width: 800px;">
-</div>
 
 ### 👨‍💻 About Me
 
